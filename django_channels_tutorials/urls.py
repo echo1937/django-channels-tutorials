@@ -29,6 +29,6 @@ def index(request):
 urlpatterns += [
     path('', index),
     path('integers/', include('integers.urls')),
-    # path('graph/', include('graph.urls')),
+    path('graph/', include('graph.urls')),
     # path('jokes/', include('jokes.urls')),
 ]
