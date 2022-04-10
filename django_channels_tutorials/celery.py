@@ -6,6 +6,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_channels_tutorials.setti
 app = Celery('django_channels_tutorials')
 app.config_from_object('django.conf:settings', namespace='CELERY')
 
+# 设定定时任务
 app.conf.beat_schedule = {
     'get_joke_5s': {
         'task': 'jokes.tasks.get_joke',

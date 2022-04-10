@@ -35,8 +35,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'channels',
-    'jokes',
+    'channels',  # __init__.py的内容需要被导入
+    'jokes',  # jokes.tasks.get_joke没有显式导入，因此需要添加至INSTALLED_APPS
 ]
 
 MIDDLEWARE = [
