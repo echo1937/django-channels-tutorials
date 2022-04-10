@@ -1,14 +1,14 @@
 ## Django Channels tutorials, Django Real-time apps with WebSockets
 
-### 1、Django Channels Tutorial 🔥: the most minimal Real Time app (not Chat) | Django WebSockets
+### Django Channels Tutorial 🔥: the most minimal Real Time app (not Chat)
 
 - [YouTube Link](https://www.youtube.com/watch?v=R4-XRK6NqMA&list=PLe4mIUXfbIqYEOgfh4X_Yz767IntYUSvg)
 
-### 2、Django Channels Tutorial 🔥: Real Time Graph with Chart.js | Django Websocket
+### Django Channels Tutorial 🔥: Real Time Graph with Chart.js
 
 - [YouTube Link](https://www.youtube.com/watch?v=tZY260UyAiE&list=PLe4mIUXfbIqYEOgfh4X_Yz767IntYUSvg)
 
-### 3、Django Channels, Celery, Redis: Real Time Broadcasting API response App (Jokes) | Django WebSockets
+### Django Channels, Celery, Redis: Real Time Broadcasting API response App (Jokes)
 
 - [YouTube Link](https://www.youtube.com/watch?v=AZNp1CfOjtE&list=PLe4mIUXfbIqYEOgfh4X_Yz767IntYUSvg)
 
